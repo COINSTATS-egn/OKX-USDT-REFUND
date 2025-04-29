@@ -11,7 +11,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[TBQv9cRWxSZY..RBaPp6g74SRL1]**
 | Address:                  |TBQv9cRWxSZY..RBaPp6g74SRL1|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| date:                     | 29th April/25             |
+| date:                     | 30th April/25             |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
